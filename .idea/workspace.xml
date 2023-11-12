@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="add pygame">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProjectLoVoGIT.iml" beforeDir="false" />
+    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="add pygame it still no working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LoVoExplorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoVoExplorer.py" afterDir="false" />
     </list>
@@ -174,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699483089416</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add pygame it still no working">
+      <option name="closed" value="true" />
+      <created>1699810182913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699810182913</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +205,7 @@
     <MESSAGE value="clearly" />
     <MESSAGE value="add py" />
     <MESSAGE value="add pygame" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pygame" />
+    <MESSAGE value="add pygame it still no working" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pygame it still no working" />
   </component>
 </project>
