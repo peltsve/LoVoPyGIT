@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="clearly" />
+    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="add pygame">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProjectLoVoGIT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoVoExplorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoVoExplorer.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +61,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Documents/GitHub/pygame&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RunAnythingCache">
@@ -144,7 +150,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699478976461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add py">
+      <option name="closed" value="true" />
+      <created>1699482943954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699482943954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add pygame">
+      <option name="closed" value="true" />
+      <created>1699483078945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699483078945</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add pygame">
+      <option name="closed" value="true" />
+      <created>1699483089416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699483089416</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,7 +182,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -161,6 +197,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit omy" />
     <MESSAGE value="clearly" />
-    <option name="LAST_COMMIT_MESSAGE" value="clearly" />
+    <MESSAGE value="add py" />
+    <MESSAGE value="add pygame" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pygame" />
   </component>
 </project>
