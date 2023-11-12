@@ -20,18 +20,18 @@ def draw_picture(screen, x, y, width, height):
     sun_radius = min(height, width)//10
     draw_sun(screen, x, y, sun_radius)
     pass
-def draw_sun(screen, x, y, sun_radius):
-    print("Типа рисую солнышко", x, y, sun_radius)
-def draw_house(screen, house_x, house_y, house_width, house_height):
-    print("Типа рисую домик: ", house_x, house_y, house_width, house_height)
+def draw_sun(screen, x, y, radius):
+    print("Типа рисую солнышко: ", x, y, radius)
+def draw_house(screen, x, y, width, height):
+    print("Типа рисую домик: ", x, y, width, height)
 def draw_background(screen, x, y, width, height):
-    print("Типа рисую фон ", x, y, width, height)
+    print("Типа рисую фон: ", x, y, width, height)
 
 FPS = 30
 width, height = screen_size = (400, 400)
 screen = pygame.display.set_mode(screen_size)
 
-draw_picture(screen,100,200,width,height)
+draw_picture(screen,00,00,width,height)
 
 pygame.display.update()
 
