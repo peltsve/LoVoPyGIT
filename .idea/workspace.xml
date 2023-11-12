@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца">
+    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LoVoExplorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoVoExplorer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699820637155</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца 3">
+      <option name="closed" value="true" />
+      <created>1699821073711</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699821073711</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -269,6 +278,7 @@
     <MESSAGE value="Drowning The House First Screen" />
     <MESSAGE value="Сделал пустышку-функцию для будщей отрисовки дома" />
     <MESSAGE value="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца" />
+    <MESSAGE value="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал пустышки-функции для будщей отрисовки фона, дома, солнца 3" />
   </component>
 </project>
