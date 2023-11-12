@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="its working! PyGame! But, maybe i'm kill pip?">
+    <list default="true" id="918a4f75-e36e-4a8d-94ac-fe886f6d8905" name="Changes" comment="Drowning The House First Screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LoVoExplorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoVoExplorer.py" afterDir="false" />
     </list>
@@ -188,8 +188,35 @@
       <option name="project" value="LOCAL" />
       <updated>1699811748463</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Drowning The House">
+      <option name="closed" value="true" />
+      <created>1699813135253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699813135253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Drowning The House First Screen">
+      <option name="closed" value="true" />
+      <created>1699814816193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699814816193</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -215,6 +242,8 @@
     <MESSAGE value="add pygame" />
     <MESSAGE value="add pygame it still no working" />
     <MESSAGE value="its working! PyGame! But, maybe i'm kill pip?" />
-    <option name="LAST_COMMIT_MESSAGE" value="its working! PyGame! But, maybe i'm kill pip?" />
+    <MESSAGE value="Drowning The House" />
+    <MESSAGE value="Drowning The House First Screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drowning The House First Screen" />
   </component>
 </project>

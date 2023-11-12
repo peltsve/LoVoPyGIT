@@ -1,11 +1,23 @@
 import pygame
 from pygame.draw import *
-
 pygame.init()
 
+def draw_picture(screen, x, y, width, height):
+    """ Рисует картинку с домиком на фоне травы и неба с солнцем
+    :param screen: дисплей модуля pygame, на котором будет изображение дома
+    :param x: координата по горизонтали
+    :param y: координата по вертикали
+    :param width: ширина  прямоугольника
+    :param height: высота прямоугольника
+
+    """
+    print("Типа рисую картинку", x, y, width, height)
+    pass
 FPS = 30
 width, height = screen_size = (400, 400)
 screen = pygame.display.set_mode(screen_size)
+
+draw_picture(screen,100,200,width,height)
 
 pygame.display.update()
 
